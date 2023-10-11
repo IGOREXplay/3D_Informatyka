@@ -1,0 +1,1 @@
+print("jabłko \ncytryna \nlimonka")
