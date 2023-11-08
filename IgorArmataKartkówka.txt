@@ -1,0 +1,19 @@
++ Dodawanie 2+8=>10
+- Odejmowanie 5-8=>-3
+* Mnożenie 3*2=>6 
+/ Dzielenie 6/2=>3
+// Dzielenie całkowite, (z zaokrągleniem do liczb całkowitych) 9//4=>2 
+% Reszta z dzielenia 9%4=>1
+** Potęgowanie 3**=>9
+not Zaprzeczenie  not false=>true
+or "lub" wybór pomiedzy, np true or false 
+in W    3 in [9,6,1]
+and I echo"słodkie" and echo"słone"
+< Mniejszy od  <4
+> Wiekszę od   >5
+<=Mniejszy lub równy <6
+>=Większy lub równy  >7
+==Równość        5==5
+!= Nierówność      8!=12
+
+
